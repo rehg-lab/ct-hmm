@@ -1,0 +1,24 @@
+==== Training Bayesian prior model: use multivariate Guassian ====
+CV = 1
+Fitted Gaussian: mean vector:
+89.428272 -0.062896 73.012773 -0.033456 
+Fitted Gaussian: covariance matrix:
+368.108448 0.417277 124.903799 -0.284588 
+0.417277 0.060773 0.609660 0.003228 
+124.903799 0.609660 156.879603 -0.280138 
+-0.284588 0.003228 -0.280138 0.008801 
+Fitted Gaussian: standard deviation:
+19.186153 0.246522 12.525159 0.093814 
+CV = 2
+Fitted Gaussian: mean vector:
+91.792866 -0.063617 74.292043 -0.044289 
+Fitted Gaussian: covariance matrix:
+197.032982 0.014207 113.290531 -0.503857 
+0.014207 0.030751 0.241118 0.001788 
+113.290531 0.241118 160.226011 -0.441573 
+-0.503857 0.001788 -0.441573 0.009804 
+Fitted Gaussian: standard deviation:
+14.036844 0.175358 12.658041 0.099013 
+num of seqs = 116
+test idx: 1
+Num of t1 search = 1, num of t2 search = 12

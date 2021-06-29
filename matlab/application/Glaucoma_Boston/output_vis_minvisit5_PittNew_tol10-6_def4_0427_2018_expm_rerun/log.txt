@@ -1,0 +1,26 @@
+num included subject = 116 (g/gs)
+num other subject = 107
+num included visits = 805
+
+Visit Count: mean:6.9, std=1.8
+Tracing Year: mean:4.3, std=1.2
+data1: mean:89.2, std=18.2
+
+data2: mean:72.8, std=12.4
+min data2 (32.0)
+max data2 (105.0)
+
+Visit ages: mean:64.3, std=11.6
+num of visit <= visiting age 30: 7 (0.9%)
+num of visit <= visiting age 40: 14 (1.7%)
+num of visit <= visiting age 50: 77 (9.6%)
+num of visit <= visiting age 60: 318 (39.5%)
+num of visit <= visiting age 70: 574 (71.3%)
+num of visit <= visiting age 80: 735 (91.3%)
+num of visit <= visiting age 90: 797 (99.0%)
+num of visit <= visiting age 100: 805 (100.0%)
+baseline age: mean:62.2, std=11.3
+num included eyes = 116, total visits = 805
+num of unique subject ID = 112
+trace year: mean:4.338362, std=1.249507
+num visit: mean:6.939655, std=1.790258

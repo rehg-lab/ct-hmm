@@ -1,0 +1,802 @@
+==== Training Bayesian prior model: use multivariate Guassian ====
+CV = 1
+Fitted Gaussian: mean vector:
+89.488722 -0.075480 2.733586 -0.001813 
+Fitted Gaussian: covariance matrix:
+347.789809 1.176988 2.411680 -0.003376 
+1.176988 0.035854 0.013399 0.000012 
+2.411680 0.013399 0.056679 -0.000032 
+-0.003376 0.000012 -0.000032 0.000001 
+Fitted Gaussian: standard deviation:
+18.649124 0.189352 0.238073 0.000883 
+CV = 2
+Fitted Gaussian: mean vector:
+92.064354 -0.077784 2.723653 -0.001786 
+Fitted Gaussian: covariance matrix:
+209.942040 0.239090 1.348102 -0.001525 
+0.239090 0.029434 0.011403 -0.000011 
+1.348102 0.011403 0.049805 -0.000055 
+-0.001525 -0.000011 -0.000055 0.000001 
+Fitted Gaussian: standard deviation:
+14.489377 0.171564 0.223171 0.000804 
+num of seqs = 135
+test idx: 1
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 2
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 3
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 4
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 5
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+
+test idx: 6
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 7
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 8
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 9
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 10
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 11
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 13
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 14
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 15
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 16
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 17
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 18
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 19
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 20
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 21
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 22
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 23
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 24
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 25
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 26
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 27
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 28
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 29
+Num of t1 search = 4, num of t2 search = 12
+Num of t1 search = 5, num of t2 search = 12
+
+test idx: 30
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 31
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 32
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 33
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 34
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 35
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 36
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 37
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 38
+Num of t1 search = 4, num of t2 search = 12
+Num of t1 search = 5, num of t2 search = 12
+
+test idx: 39
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 40
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 41
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 42
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 43
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 44
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 45
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 46
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 47
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 48
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 49
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 50
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 51
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 52
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 53
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 54
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 55
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 56
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 1
+Num of t1 search = 7, num of t2 search = 1
+Num of t1 search = 8, num of t2 search = 1
+
+test idx: 57
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 58
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 59
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 60
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 61
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 62
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 63
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 64
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 65
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 66
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 67
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 68
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 69
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 70
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 71
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 72
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 73
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 74
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 75
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 76
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 77
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 78
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 79
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 80
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 81
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 82
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 83
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 84
+Num of t1 search = 4, num of t2 search = 12
+Num of t1 search = 5, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+
+test idx: 85
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 86
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 87
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 88
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 89
+Num of t1 search = 4, num of t2 search = 2
+Num of t1 search = 6, num of t2 search = 2
+
+test idx: 90
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 91
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 92
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+
+test idx: 93
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 94
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 95
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 96
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 97
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 98
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 99
+Num of t1 search = 1, num of t2 search = 2
+
+test idx: 100
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 101
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 102
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 103
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 104
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 105
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 106
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+
+test idx: 107
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 108
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 109
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 110
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 2
+
+test idx: 111
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 1
+Num of t1 search = 7, num of t2 search = 1
+
+test idx: 112
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 113
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 114
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+
+test idx: 115
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+
+test idx: 116
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+Num of t1 search = 1, num of t2 search = 1
+
+test idx: 117
+Num of t1 search = 1, num of t2 search = 2
+
+test idx: 118
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 119
+Num of t1 search = 4, num of t2 search = 12
+Num of t1 search = 5, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+
+test idx: 120
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 121
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 122
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 123
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 124
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 125
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 126
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 5, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+
+test idx: 127
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 128
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 129
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+
+test idx: 130
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 131
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 2
+Num of t1 search = 1, num of t2 search = 2
+
+test idx: 132
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 6, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 7, num of t2 search = 12
+Num of t1 search = 8, num of t2 search = 12
+
+test idx: 133
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 134
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+test idx: 135
+Num of t1 search = 1, num of t2 search = 12
+Num of t1 search = 1, num of t2 search = 12
+
+num of valid seq = 135
+overall_num_test = 484
+================================================
+DIM = 1
+HMM abs error: 3.9700 +- 6.4889
+LR abs error: 4.2536 +- 7.8972
+Bayes LR abs error: 3.9311 +- 7.5915
+
+(Global LR abs error: 1.8163 +- 3.3792. This uses all data to find the LR line. Not a testing method.)
+CTHMM vs LR: h = 0.000000, p = 0.210131, ci = -0.727520, 0.160431
+CTHMM vs bayes LR: h = 0.000000, p = 0.862084, ci = -0.400961, 0.478784
+
+bayes LR vs LR: h = 1.000000, p = 0.000000, ci = -0.405646, -0.239265
+
+================================================
+DIM = 2
+HMM abs error: 0.0683 +- 0.0480
+LR abs error: 0.0690 +- 0.0853
+Bayes LR abs error: 0.0291 +- 0.0275
+
+(Global LR abs error: 0.0091 +- 0.0101. This uses all data to find the LR line. Not a testing method.)
+CTHMM vs LR: h = 0.000000, p = 0.887172, ci = -0.009871, 0.008541
+CTHMM vs bayes LR: h = 1.000000, p = 0.000000, ci = 0.034161, 0.044252
+
+bayes LR vs LR: h = 1.000000, p = 0.000000, ci = -0.046763, -0.032980
+

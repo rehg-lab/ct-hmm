@@ -1,0 +1,540 @@
+Total number of states = 96
+num of para = 206
+num_distinct_time = 72
+
+Precomputation of data emission-> time: 0 minutes and 2.127830 seconds
+*** Iter = 1:
+Iter precomputation -> 0 minutes and 0.160879 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.812212 seconds
+
+Compute all tau_i: time: 1 minutes and 11.745432 seconds
+
+Compute all n_ij: time: 2 minutes and 37.426858 seconds
+
+Compute all inner counts: 3 minutes and 49.178761 seconds
+cur_all_subject_prob = -6123.886918
+max_qij = 0.504864, min_qii = -0.504864
+cur_all_subject_prob = -6123.886918
+Iter 1, total elapse time: 4 minutes and 5.880532 seconds
+*** Iter = 2:
+Do EigenIter precomputation -> 0 minutes and 0.147470 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.592858 seconds
+
+Compute all inner counts: 0 minutes and 1.489394 seconds
+cur_all_subject_prob = -5932.331381
+max_qij = 0.954057, min_qii = -0.954057
+cur_all_subject_prob = -5932.331381
+Iter 2, total elapse time: 0 minutes and 18.336386 seconds
+Likelihood relative difference = 3.128006e-02
+*** Iter = 3:
+Do EigenIter precomputation -> 0 minutes and 0.132860 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.652494 seconds
+
+Compute all inner counts: 0 minutes and 1.576601 seconds
+cur_all_subject_prob = -5917.386670
+max_qij = 1.343724, min_qii = -1.343724
+cur_all_subject_prob = -5917.386670
+Iter 3, total elapse time: 0 minutes and 19.384841 seconds
+Likelihood relative difference = 2.519197e-03
+*** Iter = 4:
+Do EigenIter precomputation -> 0 minutes and 0.124722 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.607934 seconds
+
+Compute all inner counts: 0 minutes and 1.516407 seconds
+cur_all_subject_prob = -5911.834577
+max_qij = 1.701557, min_qii = -1.701557
+cur_all_subject_prob = -5911.834577
+Iter 4, total elapse time: 0 minutes and 17.257868 seconds
+Likelihood relative difference = 9.382677e-04
+*** Iter = 5:
+Do EigenIter precomputation -> 0 minutes and 0.130208 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.613707 seconds
+
+Compute all inner counts: 0 minutes and 1.567803 seconds
+cur_all_subject_prob = -5909.092634
+max_qij = 2.039139, min_qii = -2.039139
+cur_all_subject_prob = -5909.092634
+Iter 5, total elapse time: 0 minutes and 18.320442 seconds
+Likelihood relative difference = 4.638058e-04
+*** Iter = 6:
+Do EigenIter precomputation -> 0 minutes and 0.153337 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.593651 seconds
+
+Compute all inner counts: 0 minutes and 1.534079 seconds
+cur_all_subject_prob = -5907.442827
+max_qij = 2.362213, min_qii = -2.362213
+cur_all_subject_prob = -5907.442827
+Iter 6, total elapse time: 0 minutes and 18.612620 seconds
+Likelihood relative difference = 2.791980e-04
+*** Iter = 7:
+Do EigenIter precomputation -> 0 minutes and 0.152111 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.630477 seconds
+
+Compute all inner counts: 0 minutes and 1.479829 seconds
+cur_all_subject_prob = -5906.339205
+max_qij = 2.674409, min_qii = -2.674409
+cur_all_subject_prob = -5906.339205
+Iter 7, total elapse time: 0 minutes and 17.926885 seconds
+Likelihood relative difference = 1.868189e-04
+*** Iter = 8:
+Do EigenIter precomputation -> 0 minutes and 0.163309 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.708131 seconds
+
+Compute all inner counts: 0 minutes and 1.620216 seconds
+cur_all_subject_prob = -5905.611648
+max_qij = 2.978340, min_qii = -2.978340
+cur_all_subject_prob = -5905.611648
+Iter 8, total elapse time: 0 minutes and 18.868146 seconds
+Likelihood relative difference = 1.231824e-04
+*** Iter = 9:
+Do EigenIter precomputation -> 0 minutes and 0.140771 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.598612 seconds
+
+Compute all inner counts: 0 minutes and 1.479646 seconds
+cur_all_subject_prob = -5905.144734
+max_qij = 3.275924, min_qii = -3.275924
+cur_all_subject_prob = -5905.144734
+Iter 9, total elapse time: 0 minutes and 17.228829 seconds
+Likelihood relative difference = 7.906285e-05
+*** Iter = 10:
+Do EigenIter precomputation -> 0 minutes and 0.149041 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.652739 seconds
+
+Compute all inner counts: 0 minutes and 1.503836 seconds
+cur_all_subject_prob = -5904.829009
+max_qij = 3.568555, min_qii = -3.568555
+cur_all_subject_prob = -5904.829009
+Iter 10, total elapse time: 0 minutes and 18.077644 seconds
+Likelihood relative difference = 5.346609e-05
+*** Iter = 11:
+Do EigenIter precomputation -> 0 minutes and 0.160542 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.984223 seconds
+
+Compute all inner counts: 0 minutes and 1.633742 seconds
+cur_all_subject_prob = -5904.599738
+max_qij = 3.857235, min_qii = -3.857235
+cur_all_subject_prob = -5904.599738
+Iter 11, total elapse time: 0 minutes and 18.155780 seconds
+Likelihood relative difference = 3.882761e-05
+*** Iter = 12:
+Do EigenIter precomputation -> 0 minutes and 0.142861 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.604078 seconds
+
+Compute all inner counts: 0 minutes and 1.583773 seconds
+cur_all_subject_prob = -5904.423976
+max_qij = 4.142625, min_qii = -4.142625
+cur_all_subject_prob = -5904.423976
+Iter 12, total elapse time: 0 minutes and 18.436783 seconds
+Likelihood relative difference = 2.976708e-05
+*** Iter = 13:
+Do EigenIter precomputation -> 0 minutes and 0.131962 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.642635 seconds
+
+Compute all inner counts: 0 minutes and 1.590577 seconds
+cur_all_subject_prob = -5904.284042
+max_qij = 4.424890, min_qii = -4.424890
+cur_all_subject_prob = -5904.284042
+Iter 13, total elapse time: 0 minutes and 18.600356 seconds
+Likelihood relative difference = 2.369972e-05
+*** Iter = 14:
+Do EigenIter precomputation -> 0 minutes and 0.151183 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.604946 seconds
+
+Compute all inner counts: 0 minutes and 1.541819 seconds
+cur_all_subject_prob = -5904.169581
+max_qij = 4.702634, min_qii = -4.702634
+cur_all_subject_prob = -5904.169581
+Iter 14, total elapse time: 0 minutes and 17.774572 seconds
+Likelihood relative difference = 1.938613e-05
+*** Iter = 15:
+Do EigenIter precomputation -> 0 minutes and 0.128053 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.706710 seconds
+
+Compute all inner counts: 0 minutes and 1.491905 seconds
+cur_all_subject_prob = -5904.074076
+max_qij = 4.968120, min_qii = -4.968120
+cur_all_subject_prob = -5904.074076
+Iter 15, total elapse time: 0 minutes and 18.169870 seconds
+Likelihood relative difference = 1.617581e-05
+*** Iter = 16:
+Do EigenIter precomputation -> 0 minutes and 0.124260 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.603379 seconds
+
+Compute all inner counts: 0 minutes and 1.546710 seconds
+cur_all_subject_prob = -5903.993174
+max_qij = 5.192256, min_qii = -5.192256
+cur_all_subject_prob = -5903.993174
+Iter 16, total elapse time: 0 minutes and 18.737022 seconds
+Likelihood relative difference = 1.370285e-05
+*** Iter = 17:
+Do EigenIter precomputation -> 0 minutes and 0.175397 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.656337 seconds
+
+Compute all inner counts: 0 minutes and 1.600752 seconds
+cur_all_subject_prob = -5903.923800
+max_qij = 5.322788, min_qii = -5.322788
+cur_all_subject_prob = -5903.923800
+Iter 17, total elapse time: 0 minutes and 17.460945 seconds
+Likelihood relative difference = 1.175024e-05
+*** Iter = 18:
+Do EigenIter precomputation -> 0 minutes and 0.182484 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.679706 seconds
+
+Compute all inner counts: 0 minutes and 1.498886 seconds
+cur_all_subject_prob = -5903.863687
+max_qij = 5.366941, min_qii = -5.366941
+cur_all_subject_prob = -5903.863687
+Iter 18, total elapse time: 0 minutes and 18.001050 seconds
+Likelihood relative difference = 1.018200e-05
+*** Iter = 19:
+Do EigenIter precomputation -> 0 minutes and 0.129514 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.613009 seconds
+
+Compute all inner counts: 0 minutes and 1.487134 seconds
+cur_all_subject_prob = -5903.811098
+max_qij = 5.377698, min_qii = -5.377698
+cur_all_subject_prob = -5903.811098
+Iter 19, total elapse time: 0 minutes and 17.763441 seconds
+Likelihood relative difference = 8.907471e-06
+*** Iter = 20:
+Do EigenIter precomputation -> 0 minutes and 0.130368 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.734901 seconds
+
+Compute all inner counts: 0 minutes and 1.544797 seconds
+cur_all_subject_prob = -5903.764682
+max_qij = 5.380065, min_qii = -5.380065
+cur_all_subject_prob = -5903.764682
+Iter 20, total elapse time: 0 minutes and 17.379667 seconds
+Likelihood relative difference = 7.862150e-06
+*** Iter = 21:
+Do EigenIter precomputation -> 0 minutes and 0.136169 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.600175 seconds
+
+Compute all inner counts: 0 minutes and 1.542761 seconds
+cur_all_subject_prob = -5903.723369
+max_qij = 5.380575, min_qii = -5.380575
+cur_all_subject_prob = -5903.723369
+Iter 21, total elapse time: 0 minutes and 17.505475 seconds
+Likelihood relative difference = 6.997732e-06
+*** Iter = 22:
+Do EigenIter precomputation -> 0 minutes and 0.135915 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.750411 seconds
+
+Compute all inner counts: 0 minutes and 1.451486 seconds
+cur_all_subject_prob = -5903.686312
+max_qij = 5.380684, min_qii = -5.380684
+cur_all_subject_prob = -5903.686312
+Iter 22, total elapse time: 0 minutes and 18.349007 seconds
+Likelihood relative difference = 6.276874e-06
+*** Iter = 23:
+Do EigenIter precomputation -> 0 minutes and 0.161797 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.702921 seconds
+
+Compute all inner counts: 0 minutes and 1.570408 seconds
+cur_all_subject_prob = -5903.652836
+max_qij = 5.380708, min_qii = -5.380708
+cur_all_subject_prob = -5903.652836
+Iter 23, total elapse time: 0 minutes and 17.544349 seconds
+Likelihood relative difference = 5.670330e-06
+*** Iter = 24:
+Do EigenIter precomputation -> 0 minutes and 0.155943 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.820376 seconds
+
+Compute all inner counts: 0 minutes and 1.537481 seconds
+cur_all_subject_prob = -5903.622401
+max_qij = 5.380713, min_qii = -5.380713
+cur_all_subject_prob = -5903.622401
+Iter 24, total elapse time: 0 minutes and 18.325189 seconds
+Likelihood relative difference = 5.155166e-06
+*** Iter = 25:
+Do EigenIter precomputation -> 0 minutes and 0.130488 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.613782 seconds
+
+Compute all inner counts: 0 minutes and 1.566107 seconds
+cur_all_subject_prob = -5903.594575
+max_qij = 5.579644, min_qii = -5.579661
+cur_all_subject_prob = -5903.594575
+Iter 25, total elapse time: 0 minutes and 17.981470 seconds
+Likelihood relative difference = 4.713442e-06
+*** Iter = 26:
+Do EigenIter precomputation -> 0 minutes and 0.144069 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.603755 seconds
+
+Compute all inner counts: 0 minutes and 1.545741 seconds
+cur_all_subject_prob = -5903.569006
+max_qij = 5.782980, min_qii = -5.782990
+cur_all_subject_prob = -5903.569006
+Iter 26, total elapse time: 0 minutes and 17.548947 seconds
+Likelihood relative difference = 4.331168e-06
+*** Iter = 27:
+Do EigenIter precomputation -> 0 minutes and 0.153769 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.672160 seconds
+
+Compute all inner counts: 0 minutes and 1.540282 seconds
+cur_all_subject_prob = -5903.545407
+max_qij = 5.985772, min_qii = -5.985778
+cur_all_subject_prob = -5903.545407
+Iter 27, total elapse time: 0 minutes and 18.182905 seconds
+Likelihood relative difference = 3.997429e-06
+*** Iter = 28:
+Do EigenIter precomputation -> 0 minutes and 0.147846 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.750241 seconds
+
+Compute all inner counts: 0 minutes and 1.578725 seconds
+cur_all_subject_prob = -5903.523542
+max_qij = 6.188050, min_qii = -6.188053
+cur_all_subject_prob = -5903.523542
+Iter 28, total elapse time: 0 minutes and 18.640706 seconds
+Likelihood relative difference = 3.703687e-06
+*** Iter = 29:
+Do EigenIter precomputation -> 0 minutes and 0.149945 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.596485 seconds
+
+Compute all inner counts: 0 minutes and 1.488350 seconds
+cur_all_subject_prob = -5903.503215
+max_qij = 6.389840, min_qii = -6.389841
+cur_all_subject_prob = -5903.503215
+Iter 29, total elapse time: 0 minutes and 17.922180 seconds
+Likelihood relative difference = 3.443222e-06
+*** Iter = 30:
+Do EigenIter precomputation -> 0 minutes and 0.140571 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.757272 seconds
+
+Compute all inner counts: 0 minutes and 1.503915 seconds
+cur_all_subject_prob = -5903.484260
+max_qij = 6.591166, min_qii = -6.591167
+cur_all_subject_prob = -5903.484260
+Iter 30, total elapse time: 0 minutes and 17.707987 seconds
+Likelihood relative difference = 3.210708e-06
+*** Iter = 31:
+Do EigenIter precomputation -> 0 minutes and 0.137248 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.611068 seconds
+
+Compute all inner counts: 0 minutes and 1.552931 seconds
+cur_all_subject_prob = -5903.466539
+max_qij = 6.792051, min_qii = -6.792051
+cur_all_subject_prob = -5903.466539
+Iter 31, total elapse time: 0 minutes and 18.657784 seconds
+Likelihood relative difference = 3.001883e-06
+*** Iter = 32:
+Do EigenIter precomputation -> 0 minutes and 0.140885 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.682088 seconds
+
+Compute all inner counts: 0 minutes and 1.477853 seconds
+cur_all_subject_prob = -5903.449930
+max_qij = 6.992515, min_qii = -6.992516
+cur_all_subject_prob = -5903.449930
+Iter 32, total elapse time: 0 minutes and 18.115019 seconds
+Likelihood relative difference = 2.813307e-06
+*** Iter = 33:
+Do EigenIter precomputation -> 0 minutes and 0.151342 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.919894 seconds
+
+Compute all inner counts: 0 minutes and 1.546041 seconds
+cur_all_subject_prob = -5903.434332
+max_qij = 7.192580, min_qii = -7.192580
+cur_all_subject_prob = -5903.434332
+Iter 33, total elapse time: 0 minutes and 18.529726 seconds
+Likelihood relative difference = 2.642182e-06
+*** Iter = 34:
+Do EigenIter precomputation -> 0 minutes and 0.155751 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.757045 seconds
+
+Compute all inner counts: 0 minutes and 1.505761 seconds
+cur_all_subject_prob = -5903.419655
+max_qij = 7.392262, min_qii = -7.392262
+cur_all_subject_prob = -5903.419655
+Iter 34, total elapse time: 0 minutes and 17.416057 seconds
+Likelihood relative difference = 2.486213e-06
+*** Iter = 35:
+Do EigenIter precomputation -> 0 minutes and 0.158930 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.565605 seconds
+
+Compute all inner counts: 0 minutes and 1.493873 seconds
+cur_all_subject_prob = -5903.405820
+max_qij = 7.591580, min_qii = -7.591580
+cur_all_subject_prob = -5903.405820
+Iter 35, total elapse time: 0 minutes and 17.706215 seconds
+Likelihood relative difference = 2.343503e-06
+*** Iter = 36:
+Do EigenIter precomputation -> 0 minutes and 0.141809 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.591494 seconds
+
+Compute all inner counts: 0 minutes and 1.478352 seconds
+cur_all_subject_prob = -5903.392759
+max_qij = 7.790551, min_qii = -7.790551
+cur_all_subject_prob = -5903.392759
+Iter 36, total elapse time: 0 minutes and 18.275465 seconds
+Likelihood relative difference = 2.212476e-06
+*** Iter = 37:
+Do EigenIter precomputation -> 0 minutes and 0.165073 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.661842 seconds
+
+Compute all inner counts: 0 minutes and 1.480203 seconds
+cur_all_subject_prob = -5903.380410
+max_qij = 7.989191, min_qii = -7.989191
+cur_all_subject_prob = -5903.380410
+Iter 37, total elapse time: 0 minutes and 17.782301 seconds
+Likelihood relative difference = 2.091813e-06
+*** Iter = 38:
+Do EigenIter precomputation -> 0 minutes and 0.161659 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.659359 seconds
+
+Compute all inner counts: 0 minutes and 1.548610 seconds
+cur_all_subject_prob = -5903.368719
+max_qij = 8.187515, min_qii = -8.187515
+cur_all_subject_prob = -5903.368719
+Iter 38, total elapse time: 0 minutes and 18.366860 seconds
+Likelihood relative difference = 1.980404e-06
+*** Iter = 39:
+Do EigenIter precomputation -> 0 minutes and 0.140817 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.595552 seconds
+
+Compute all inner counts: 0 minutes and 1.545924 seconds
+cur_all_subject_prob = -5903.357637
+max_qij = 8.385540, min_qii = -8.385540
+cur_all_subject_prob = -5903.357637
+Iter 39, total elapse time: 0 minutes and 18.555929 seconds
+Likelihood relative difference = 1.877306e-06
+*** Iter = 40:
+Do EigenIter precomputation -> 0 minutes and 0.157824 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.877513 seconds
+
+Compute all inner counts: 0 minutes and 1.547690 seconds
+cur_all_subject_prob = -5903.347119
+max_qij = 8.583280, min_qii = -8.583280
+cur_all_subject_prob = -5903.347119
+Iter 40, total elapse time: 0 minutes and 17.910432 seconds
+Likelihood relative difference = 1.781714e-06
+*** Iter = 41:
+Do EigenIter precomputation -> 0 minutes and 0.143674 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.600518 seconds
+
+Compute all inner counts: 0 minutes and 1.479596 seconds
+cur_all_subject_prob = -5903.337125
+max_qij = 8.780748, min_qii = -8.780748
+cur_all_subject_prob = -5903.337125
+Iter 41, total elapse time: 0 minutes and 18.072493 seconds
+Likelihood relative difference = 1.692935e-06
+*** Iter = 42:
+Do EigenIter precomputation -> 0 minutes and 0.147244 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.839463 seconds
+
+Compute all inner counts: 0 minutes and 1.565269 seconds
+cur_all_subject_prob = -5903.327618
+max_qij = 8.977958, min_qii = -8.977958
+cur_all_subject_prob = -5903.327618
+Iter 42, total elapse time: 0 minutes and 17.922819 seconds
+Likelihood relative difference = 1.610364e-06
+*** Iter = 43:
+Do EigenIter precomputation -> 0 minutes and 0.156530 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.651717 seconds
+
+Compute all inner counts: 0 minutes and 1.575774 seconds
+cur_all_subject_prob = -5903.318566
+max_qij = 9.174924, min_qii = -9.174924
+cur_all_subject_prob = -5903.318566
+Iter 43, total elapse time: 0 minutes and 17.488122 seconds
+Likelihood relative difference = 1.533471e-06
+*** Iter = 44:
+Do EigenIter precomputation -> 0 minutes and 0.155617 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.582079 seconds
+
+Compute all inner counts: 0 minutes and 1.546047 seconds
+cur_all_subject_prob = -5903.309936
+max_qij = 9.371656, min_qii = -9.371656
+cur_all_subject_prob = -5903.309936
+Iter 44, total elapse time: 0 minutes and 19.057349 seconds
+Likelihood relative difference = 1.461788e-06
+*** Iter = 45:
+Do EigenIter precomputation -> 0 minutes and 0.147515 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.585332 seconds
+
+Compute all inner counts: 0 minutes and 1.544625 seconds
+cur_all_subject_prob = -5903.301702
+max_qij = 9.568168, min_qii = -9.568168
+cur_all_subject_prob = -5903.301702
+Iter 45, total elapse time: 0 minutes and 17.568972 seconds
+Likelihood relative difference = 1.394892e-06
+*** Iter = 46:
+Do EigenIter precomputation -> 0 minutes and 0.162448 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.863128 seconds
+
+Compute all inner counts: 0 minutes and 1.557380 seconds
+cur_all_subject_prob = -5903.293836
+max_qij = 9.764470, min_qii = -9.764470
+cur_all_subject_prob = -5903.293836
+Iter 46, total elapse time: 0 minutes and 18.656497 seconds
+Likelihood relative difference = 1.332406e-06
+*** Iter = 47:
+Do EigenIter precomputation -> 0 minutes and 0.138822 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.616701 seconds
+
+Compute all inner counts: 0 minutes and 1.478328 seconds
+cur_all_subject_prob = -5903.286316
+max_qij = 9.960574, min_qii = -9.960574
+cur_all_subject_prob = -5903.286316
+Iter 47, total elapse time: 0 minutes and 18.727253 seconds
+Likelihood relative difference = 1.273986e-06
+*** Iter = 48:
+Do EigenIter precomputation -> 0 minutes and 0.145428 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.640000 seconds
+
+Compute all inner counts: 0 minutes and 1.523769 seconds
+cur_all_subject_prob = -5903.279118
+max_qij = 10.156488, min_qii = -10.156488
+cur_all_subject_prob = -5903.279118
+Iter 48, total elapse time: 0 minutes and 18.363218 seconds
+Likelihood relative difference = 1.219317e-06
+*** Iter = 49:
+Do EigenIter precomputation -> 0 minutes and 0.138363 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.608676 seconds
+
+Compute all inner counts: 0 minutes and 1.548266 seconds
+cur_all_subject_prob = -5903.272222
+max_qij = 10.352222, min_qii = -10.352222
+cur_all_subject_prob = -5903.272222
+Iter 49, total elapse time: 0 minutes and 17.856355 seconds
+Likelihood relative difference = 1.168114e-06
+*** Iter = 50:
+Do EigenIter precomputation -> 0 minutes and 0.135943 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.606248 seconds
+
+Compute all inner counts: 0 minutes and 1.529237 seconds
+cur_all_subject_prob = -5903.265610
+max_qij = 10.547786, min_qii = -10.547786
+cur_all_subject_prob = -5903.265610
+Iter 50, total elapse time: 0 minutes and 17.693767 seconds
+Likelihood relative difference = 1.120111e-06
+*** Iter = 51:
+Do EigenIter precomputation -> 0 minutes and 0.160578 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.608549 seconds
+
+Compute all inner counts: 0 minutes and 1.531746 seconds
+cur_all_subject_prob = -5903.259263
+max_qij = 10.743188, min_qii = -10.743188
+cur_all_subject_prob = -5903.259263
+Iter 51, total elapse time: 0 minutes and 17.908818 seconds
+Likelihood relative difference = 1.075067e-06
+*** Iter = 52:
+Do EigenIter precomputation -> 0 minutes and 0.172071 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.683289 seconds
+
+Compute all inner counts: 0 minutes and 1.563142 seconds
+cur_all_subject_prob = -5903.253167
+max_qij = 10.938435, min_qii = -10.938435
+cur_all_subject_prob = -5903.253167
+Iter 52, total elapse time: 0 minutes and 18.050866 seconds
+Likelihood relative difference = 1.032757e-06
+*** Iter = 53:
+Do EigenIter precomputation -> 0 minutes and 0.161151 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.655497 seconds
+
+Compute all inner counts: 0 minutes and 1.554294 seconds
+cur_all_subject_prob = -5903.247305
+max_qij = 11.133536, min_qii = -11.133536
+cur_all_subject_prob = -5903.247305
+Iter 53, total elapse time: 0 minutes and 19.095141 seconds
+Likelihood relative difference = 9.929766e-07
+Find relative_diff < learn_converge_tol, terminate EM learning
+Total elapse time: 19 minutes and 50.028046 seconds

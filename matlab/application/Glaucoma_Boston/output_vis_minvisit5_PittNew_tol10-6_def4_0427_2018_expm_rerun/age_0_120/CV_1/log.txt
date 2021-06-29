@@ -1,0 +1,261 @@
+Total number of states = 232
+num of para = 464
+num_distinct_time = 32
+
+Precomputation of data emission-> time: 0 minutes and 4.974823 seconds
+*** Iter = 1:
+Iter precomputation -> 0 minutes and 0.514617 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 25.157945 seconds
+
+Compute all tau_i: time: 16 minutes and 2.686092 seconds
+
+Compute all n_ij: time: 31 minutes and 9.419310 seconds
+
+Compute all inner counts: 47 minutes and 12.107188 seconds
+cur_all_subject_prob = -11777.219704
+max_qij = 2.254863, min_qii = -2.254863
+cur_all_subject_prob = -11777.219704
+Iter 1, total elapse time: 48 minutes and 20.644816 seconds
+*** Iter = 2:
+Iter precomputation -> 0 minutes and 0.543047 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 24.029878 seconds
+
+Compute all tau_i: time: 14 minutes and 29.420877 seconds
+
+Compute all n_ij: time: 28 minutes and 47.510121 seconds
+
+Compute all inner counts: 43 minutes and 16.933004 seconds
+cur_all_subject_prob = -11355.033877
+max_qij = 4.004607, min_qii = -4.004607
+cur_all_subject_prob = -11355.033877
+Iter 2, total elapse time: 44 minutes and 25.543031 seconds
+Likelihood relative difference = 3.584767e-02
+*** Iter = 3:
+Iter precomputation -> 0 minutes and 0.702949 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 24.283302 seconds
+
+Compute all tau_i: time: 14 minutes and 46.465537 seconds
+
+Compute all n_ij: time: 32 minutes and 15.189694 seconds
+
+Compute all inner counts: 47 minutes and 1.657061 seconds
+cur_all_subject_prob = -11322.571338
+max_qij = 5.536339, min_qii = -5.536339
+cur_all_subject_prob = -11322.571338
+Iter 3, total elapse time: 48 minutes and 16.520113 seconds
+Likelihood relative difference = 2.858868e-03
+*** Iter = 4:
+Iter precomputation -> 0 minutes and 0.850882 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 26.824873 seconds
+
+Compute all tau_i: time: 15 minutes and 29.903084 seconds
+
+Compute all n_ij: time: 30 minutes and 12.937018 seconds
+
+Compute all inner counts: 45 minutes and 42.850887 seconds
+cur_all_subject_prob = -11308.789247
+max_qij = 6.970723, min_qii = -6.970723
+cur_all_subject_prob = -11308.789247
+Iter 4, total elapse time: 46 minutes and 53.975428 seconds
+Likelihood relative difference = 1.217223e-03
+*** Iter = 5:
+Iter precomputation -> 0 minutes and 0.747505 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 24.359553 seconds
+
+Compute all tau_i: time: 15 minutes and 17.326151 seconds
+
+Compute all n_ij: time: 30 minutes and 24.845792 seconds
+
+Compute all inner counts: 45 minutes and 42.173681 seconds
+cur_all_subject_prob = -11301.004642
+max_qij = 8.362853, min_qii = -8.362853
+cur_all_subject_prob = -11301.004642
+Iter 5, total elapse time: 46 minutes and 51.209463 seconds
+Likelihood relative difference = 6.883677e-04
+*** Iter = 6:
+Iter precomputation -> 0 minutes and 0.771869 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 24.484208 seconds
+
+Compute all tau_i: time: 23 minutes and 47.480469 seconds
+
+Compute all n_ij: time: 47 minutes and 32.843129 seconds
+
+Compute all inner counts: 71 minutes and 20.327479 seconds
+cur_all_subject_prob = -11293.449225
+max_qij = 9.721139, min_qii = -9.721139
+cur_all_subject_prob = -11293.449225
+Iter 6, total elapse time: 72 minutes and 27.286743 seconds
+Likelihood relative difference = 6.685615e-04
+*** Iter = 7:
+Iter precomputation -> 0 minutes and 0.606934 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.770330 seconds
+
+Compute all tau_i: time: 15 minutes and 22.547477 seconds
+
+Compute all n_ij: time: 30 minutes and 46.527150 seconds
+
+Compute all inner counts: 46 minutes and 9.077493 seconds
+cur_all_subject_prob = -11286.215231
+max_qij = 10.971015, min_qii = -10.971015
+cur_all_subject_prob = -11286.215231
+Iter 7, total elapse time: 47 minutes and 14.064790 seconds
+Likelihood relative difference = 6.405478e-04
+*** Iter = 8:
+Iter precomputation -> 0 minutes and 0.600065 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.829919 seconds
+
+Compute all tau_i: time: 15 minutes and 23.144943 seconds
+
+Compute all n_ij: time: 30 minutes and 41.071091 seconds
+
+Compute all inner counts: 46 minutes and 4.217846 seconds
+cur_all_subject_prob = -11283.692108
+max_qij = 12.164896, min_qii = -12.164896
+cur_all_subject_prob = -11283.692108
+Iter 8, total elapse time: 47 minutes and 9.643249 seconds
+Likelihood relative difference = 2.235579e-04
+*** Iter = 9:
+Iter precomputation -> 0 minutes and 0.611267 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 26.792592 seconds
+
+Compute all tau_i: time: 15 minutes and 47.103514 seconds
+
+Compute all n_ij: time: 30 minutes and 47.840712 seconds
+
+Compute all inner counts: 46 minutes and 34.945869 seconds
+cur_all_subject_prob = -11282.113352
+max_qij = 13.323457, min_qii = -13.323457
+cur_all_subject_prob = -11282.113352
+Iter 9, total elapse time: 47 minutes and 43.228197 seconds
+Likelihood relative difference = 1.399148e-04
+*** Iter = 10:
+Iter precomputation -> 0 minutes and 0.620760 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.723691 seconds
+
+Compute all tau_i: time: 15 minutes and 31.952945 seconds
+
+Compute all n_ij: time: 31 minutes and 21.362015 seconds
+
+Compute all inner counts: 46 minutes and 53.323161 seconds
+cur_all_subject_prob = -11280.993221
+max_qij = 14.644757, min_qii = -14.644757
+cur_all_subject_prob = -11280.993221
+Iter 10, total elapse time: 47 minutes and 58.615322 seconds
+Likelihood relative difference = 9.928388e-05
+*** Iter = 11:
+Iter precomputation -> 0 minutes and 0.614037 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.680662 seconds
+
+Compute all tau_i: time: 15 minutes and 38.399804 seconds
+
+Compute all n_ij: time: 31 minutes and 4.867821 seconds
+
+Compute all inner counts: 46 minutes and 43.269171 seconds
+cur_all_subject_prob = -11280.151260
+max_qij = 15.951206, min_qii = -15.951206
+cur_all_subject_prob = -11280.151260
+Iter 11, total elapse time: 47 minutes and 48.212763 seconds
+Likelihood relative difference = 7.463528e-05
+*** Iter = 12:
+Iter precomputation -> 0 minutes and 0.644012 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.805431 seconds
+
+Compute all tau_i: time: 15 minutes and 42.332990 seconds
+
+Compute all n_ij: time: 31 minutes and 6.901607 seconds
+
+Compute all inner counts: 46 minutes and 49.240591 seconds
+cur_all_subject_prob = -11279.492969
+max_qij = 17.240270, min_qii = -17.240270
+cur_all_subject_prob = -11279.492969
+Iter 12, total elapse time: 47 minutes and 57.125797 seconds
+Likelihood relative difference = 5.835842e-05
+*** Iter = 13:
+Iter precomputation -> 0 minutes and 0.617632 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 24.075921 seconds
+
+Compute all tau_i: time: 15 minutes and 43.965212 seconds
+
+Compute all n_ij: time: 31 minutes and 21.727485 seconds
+
+Compute all inner counts: 47 minutes and 5.694614 seconds
+cur_all_subject_prob = -11278.958403
+max_qij = 18.514741, min_qii = -18.514741
+cur_all_subject_prob = -11278.958403
+Iter 13, total elapse time: 48 minutes and 11.092435 seconds
+Likelihood relative difference = 4.739269e-05
+*** Iter = 14:
+Iter precomputation -> 0 minutes and 0.633172 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.815533 seconds
+
+Compute all tau_i: time: 15 minutes and 39.738208 seconds
+
+Compute all n_ij: time: 32 minutes and 38.358038 seconds
+
+Compute all inner counts: 48 minutes and 18.110277 seconds
+cur_all_subject_prob = -11278.505678
+max_qij = 19.776847, min_qii = -19.776847
+cur_all_subject_prob = -11278.505678
+Iter 14, total elapse time: 49 minutes and 23.498956 seconds
+Likelihood relative difference = 4.013894e-05
+*** Iter = 15:
+Iter precomputation -> 0 minutes and 0.603564 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.821380 seconds
+
+Compute all tau_i: time: 15 minutes and 44.301139 seconds
+
+Compute all n_ij: time: 31 minutes and 21.763635 seconds
+
+Compute all inner counts: 47 minutes and 6.066436 seconds
+cur_all_subject_prob = -11278.104323
+max_qij = 21.028398, min_qii = -21.028398
+cur_all_subject_prob = -11278.104323
+Iter 15, total elapse time: 48 minutes and 11.586775 seconds
+Likelihood relative difference = 3.558579e-05
+*** Iter = 16:
+Iter precomputation -> 0 minutes and 0.641136 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.835762 seconds
+
+Compute all tau_i: time: 15 minutes and 43.843658 seconds
+
+Compute all n_ij: time: 31 minutes and 27.049183 seconds
+
+Compute all inner counts: 47 minutes and 10.894860 seconds
+cur_all_subject_prob = -11277.734577
+max_qij = 22.270878, min_qii = -22.270878
+cur_all_subject_prob = -11277.734577
+Iter 16, total elapse time: 48 minutes and 16.233608 seconds
+Likelihood relative difference = 3.278445e-05
+*** Iter = 17:
+Iter precomputation -> 0 minutes and 0.632081 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.869011 seconds
+
+Compute all tau_i: time: 15 minutes and 42.419891 seconds
+
+Compute all n_ij: time: 32 minutes and 23.022140 seconds
+
+Compute all inner counts: 48 minutes and 5.454358 seconds
+cur_all_subject_prob = -11277.392907
+max_qij = 23.505506, min_qii = -23.505506
+cur_all_subject_prob = -11277.392907
+Iter 17, total elapse time: 49 minutes and 11.182611 seconds
+Likelihood relative difference = 3.029594e-05
+*** Iter = 18:
+Iter precomputation -> 0 minutes and 0.614126 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.882831 seconds
+
+Compute all tau_i: time: 15 minutes and 46.696030 seconds
+
+Compute all n_ij: time: 31 minutes and 29.530956 seconds
+
+Compute all inner counts: 47 minutes and 16.228601 seconds
+cur_all_subject_prob = -11277.094567
+max_qij = 24.733291, min_qii = -24.733291
+cur_all_subject_prob = -11277.094567
+Iter 18, total elapse time: 48 minutes and 21.996782 seconds
+Likelihood relative difference = 2.645470e-05
+*** Iter = 19:
+Iter precomputation -> 0 minutes and 0.625109 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 23.916424 seconds
+
+Compute all tau_i: time: 15 minutes and 52.867280 seconds

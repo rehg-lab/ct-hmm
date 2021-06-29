@@ -1,0 +1,3 @@
+num included subject = 181 (g/gs)
+num other subject = 57
+num included visits = 1030

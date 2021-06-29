@@ -1,0 +1,1 @@
+* run "run_Alzheimer" to train and visualize the 3D forwarding disease model learned from ADNI 1 dataset with the 3 biomarkers: hippocampus, abeta, cognition score   

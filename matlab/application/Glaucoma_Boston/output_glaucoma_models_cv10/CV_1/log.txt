@@ -1,0 +1,13 @@
+Total number of states = 85
+num of para = 186
+num_distinct_time = 72
+
+Precomputation of data emission-> time: 0 minutes and 1.603174 seconds
+*** Iter = 1:
+Do EigenIter precomputation -> 0 minutes and 0.104253 seconds
+Compute Etij(is_soft=1): total elapse time: 0 minutes and 1.396141 seconds
+
+Compute all inner counts: 0 minutes and 0.903396 seconds
+cur_all_subject_prob = -6303.503246
+max_qij = 0.214175, min_qii = -0.214175
+cur_all_subject_prob = -6303.503246

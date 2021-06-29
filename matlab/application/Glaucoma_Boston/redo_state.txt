@@ -1,0 +1,25 @@
+overall_num_test = 341
+================================================
+DIM = 1
+HMM abs error: 3.3440 +- 5.4811
+LR abs error: 4.0050 +- 7.1341
+Bayes LR abs error: 3.7619 +- 6.9209
+
+(Global LR abs error: 1.7100 +- 3.2777. This uses all data to find the LR line. Not a testing method.)
+CTHMM vs LR: h = 1.000000, p = 0.008317, ci = -1.150778, -0.171189
+CTHMM vs bayes LR: h = 0.000000, p = 0.081561, ci = -0.888355, 0.052645
+
+bayes LR vs LR: h = 1.000000, p = 0.000000, ci = -0.320954, -0.165304
+
+================================================
+DIM = 2
+HMM abs error: 3.2007 +- 3.6754
+LR abs error: 4.5376 +- 5.9094
+Bayes LR abs error: 3.1041 +- 4.2774
+
+(Global LR abs error: 1.6818 +- 2.5765. This uses all data to find the LR line. Not a testing method.)
+CTHMM vs LR: h = 1.000000, p = 0.000002, ci = -1.884142, -0.789663
+CTHMM vs bayes LR: h = 0.000000, p = 0.598976, ci = -0.264261, 0.457372
+
+bayes LR vs LR: h = 1.000000, p = 0.000000, ci = -1.710383, -1.156533
+

@@ -1,0 +1,269 @@
+===== Run Idx 1: (seed = 100) ======
+===== Syn Config Idx 20: =====
+max_qi = 4.379105, min_qi = 2.113478, small_hold_t = 0.228357, longest_hold_t = 0.473154
+Synthetic data setting 1: num_total_visit = 10000, sampling_time_interval(1) = 0.11418, obs_dur = 47.315383
+Fix total_visit_count = 10000, max_visit_per_seq = 414, min_visit_per_seq = 414, num_time_intv = 1
+all setting total_num_seq = 25
+all setting total_num_visit = 10000
+SSA: 0 min, 1.404697 sec
+Expm_dur: 0 min, 0.021289 sec
+SSA: 0 min, 0.978105 sec
+Expm_dur: 0 min, 0.017671 sec
+SSA: 0 min, 0.913343 sec
+Expm_dur: 0 min, 0.002963 sec
+SSA: 0 min, 0.888175 sec
+Expm_dur: 0 min, 0.002606 sec
+SSA: 0 min, 0.894402 sec
+Expm_dur: 0 min, 0.002323 sec
+SSA: 0 min, 0.851218 sec
+Expm_dur: 0 min, 0.000485 sec
+SSA: 0 min, 0.831677 sec
+Expm_dur: 0 min, 0.004674 sec
+SSA: 0 min, 0.880173 sec
+Expm_dur: 0 min, 0.000958 sec
+SSA: 0 min, 0.908759 sec
+Expm_dur: 0 min, 0.000572 sec
+SSA: 0 min, 0.992216 sec
+Expm_dur: 0 min, 0.000475 sec
+SSA: 0 min, 0.969777 sec
+Expm_dur: 0 min, 0.000362 sec
+SSA: 0 min, 0.954765 sec
+Expm_dur: 0 min, 0.000421 sec
+SSA: 0 min, 0.967114 sec
+Expm_dur: 0 min, 0.000751 sec
+SSA: 0 min, 0.902760 sec
+Expm_dur: 0 min, 0.000386 sec
+SSA: 0 min, 0.849656 sec
+Expm_dur: 0 min, 0.000427 sec
+SSA: 0 min, 0.943924 sec
+Expm_dur: 0 min, 0.000355 sec
+SSA: 0 min, 0.881352 sec
+Expm_dur: 0 min, 0.000479 sec
+SSA: 0 min, 0.838294 sec
+Expm_dur: 0 min, 0.000528 sec
+SSA: 0 min, 0.895328 sec
+Expm_dur: 0 min, 0.000360 sec
+SSA: 0 min, 0.885069 sec
+Expm_dur: 0 min, 0.000413 sec
+SSA: 0 min, 0.887698 sec
+Expm_dur: 0 min, 0.000384 sec
+SSA: 0 min, 0.886522 sec
+Expm_dur: 0 min, 0.000357 sec
+SSA: 0 min, 0.908838 sec
+Expm_dur: 0 min, 0.000425 sec
+SSA: 0 min, 0.842264 sec
+Expm_dur: 0 min, 0.000348 sec
+SSA: 0 min, 0.898926 sec
+Expm_dur: 0 min, 0.000966 sec
+AVE SSA run-time: 0 min, 0.922202 sec
+AVE Expm-dur run-time: 0 min, 0.002439 sec
+AVE best SSA prob: 0.192561 +- 0.286644
+===== Method 1: Expm =====
+CTHMM_decode_batch: 0 min, 0.956598 sec
+ave_conti_state_decode_err = 0.065640, ave_obstime_state_decode_err = 0.011300
+
+===== Syn Config Idx 21: =====
+max_qi = 4.379105, min_qi = 2.113478, small_hold_t = 0.228357, longest_hold_t = 0.473154
+Synthetic data setting 1: num_total_visit = 10000, sampling_time_interval(1) = 0.22836, obs_dur = 47.315383
+Fix total_visit_count = 10000, max_visit_per_seq = 207, min_visit_per_seq = 207, num_time_intv = 1
+all setting total_num_seq = 49
+all setting total_num_visit = 10000
+SSA: 0 min, 1.347097 sec
+Expm_dur: 0 min, 0.001433 sec
+SSA: 0 min, 1.121083 sec
+Expm_dur: 0 min, 0.002054 sec
+SSA: 0 min, 1.195452 sec
+Expm_dur: 0 min, 0.000591 sec
+SSA: 0 min, 1.243084 sec
+Expm_dur: 0 min, 0.000398 sec
+SSA: 0 min, 1.210167 sec
+Expm_dur: 0 min, 0.000579 sec
+SSA: 0 min, 1.033518 sec
+Expm_dur: 0 min, 0.000412 sec
+SSA: 0 min, 1.230344 sec
+Expm_dur: 0 min, 0.000795 sec
+SSA: 0 min, 1.005125 sec
+Expm_dur: 0 min, 0.000412 sec
+SSA: 0 min, 1.033624 sec
+Expm_dur: 0 min, 0.000434 sec
+SSA: 0 min, 1.011639 sec
+Expm_dur: 0 min, 0.000403 sec
+SSA: 0 min, 1.004482 sec
+Expm_dur: 0 min, 0.000455 sec
+SSA: 0 min, 0.960067 sec
+Expm_dur: 0 min, 0.000474 sec
+SSA: 0 min, 0.940894 sec
+Expm_dur: 0 min, 0.000453 sec
+SSA: 0 min, 0.991272 sec
+Expm_dur: 0 min, 0.000415 sec
+SSA: 0 min, 0.979528 sec
+Expm_dur: 0 min, 0.000444 sec
+SSA: 0 min, 0.975653 sec
+Expm_dur: 0 min, 0.000521 sec
+SSA: 0 min, 0.967916 sec
+Expm_dur: 0 min, 0.000452 sec
+SSA: 0 min, 0.990671 sec
+Expm_dur: 0 min, 0.000515 sec
+SSA: 0 min, 1.036519 sec
+Expm_dur: 0 min, 0.000371 sec
+SSA: 0 min, 1.096121 sec
+Expm_dur: 0 min, 0.000450 sec
+SSA: 0 min, 1.093794 sec
+Expm_dur: 0 min, 0.000509 sec
+SSA: 0 min, 1.021409 sec
+Expm_dur: 0 min, 0.000559 sec
+SSA: 0 min, 1.083191 sec
+Expm_dur: 0 min, 0.000464 sec
+SSA: 0 min, 1.147066 sec
+Expm_dur: 0 min, 0.000474 sec
+SSA: 0 min, 1.297895 sec
+Expm_dur: 0 min, 0.000338 sec
+AVE SSA run-time: 0 min, 1.080704 sec
+AVE Expm-dur run-time: 0 min, 0.000576 sec
+AVE best SSA prob: 0.164960 +- 0.168019
+===== Method 1: Expm =====
+CTHMM_decode_batch: 0 min, 0.738491 sec
+ave_conti_state_decode_err = 0.159487, ave_obstime_state_decode_err = 0.024300
+
+===== Syn Config Idx 22: =====
+max_qi = 4.721798, min_qi = 1.549547, small_hold_t = 0.211784, longest_hold_t = 0.645350
+Synthetic data setting 1: num_total_visit = 10000, sampling_time_interval(1) = 0.42357, obs_dur = 64.535004
+Fix total_visit_count = 10000, max_visit_per_seq = 152, min_visit_per_seq = 152, num_time_intv = 1
+all setting total_num_seq = 66
+all setting total_num_visit = 10000
+SSA: 0 min, 1.166765 sec
+Expm_dur: 0 min, 0.000420 sec
+SSA: 0 min, 1.274679 sec
+Expm_dur: 0 min, 0.005330 sec
+SSA: 0 min, 1.116317 sec
+Expm_dur: 0 min, 0.000511 sec
+SSA: 0 min, 1.311221 sec
+Expm_dur: 0 min, 0.000472 sec
+SSA: 0 min, 1.112472 sec
+Expm_dur: 0 min, 0.000608 sec
+SSA: 0 min, 1.193189 sec
+Expm_dur: 0 min, 0.000674 sec
+SSA: 0 min, 1.176646 sec
+Expm_dur: 0 min, 0.000341 sec
+SSA: 0 min, 1.173698 sec
+Expm_dur: 0 min, 0.000426 sec
+SSA: 0 min, 1.121069 sec
+Expm_dur: 0 min, 0.000407 sec
+SSA: 0 min, 1.197148 sec
+Expm_dur: 0 min, 0.000614 sec
+SSA: 0 min, 1.459964 sec
+Expm_dur: 0 min, 0.000426 sec
+SSA: 0 min, 1.428627 sec
+Expm_dur: 0 min, 0.000500 sec
+SSA: 0 min, 1.383185 sec
+Expm_dur: 0 min, 0.000324 sec
+SSA: 0 min, 1.348476 sec
+Expm_dur: 0 min, 0.000416 sec
+SSA: 0 min, 1.277969 sec
+Expm_dur: 0 min, 0.000414 sec
+SSA: 0 min, 1.274383 sec
+Expm_dur: 0 min, 0.000537 sec
+SSA: 0 min, 1.269031 sec
+Expm_dur: 0 min, 0.000448 sec
+SSA: 0 min, 1.294269 sec
+Expm_dur: 0 min, 0.000489 sec
+SSA: 0 min, 1.246291 sec
+Expm_dur: 0 min, 0.000361 sec
+SSA: 0 min, 1.331207 sec
+Expm_dur: 0 min, 0.000444 sec
+SSA: 0 min, 1.533106 sec
+Expm_dur: 0 min, 0.000766 sec
+SSA: 0 min, 1.515499 sec
+Expm_dur: 0 min, 0.000573 sec
+SSA: 0 min, 1.474973 sec
+Expm_dur: 0 min, 0.000376 sec
+SSA: 0 min, 1.485325 sec
+Expm_dur: 0 min, 0.000660 sec
+SSA: 0 min, 1.432763 sec
+Expm_dur: 0 min, 0.000320 sec
+AVE SSA run-time: 0 min, 1.303931 sec
+AVE Expm-dur run-time: 0 min, 0.000674 sec
+AVE best SSA prob: 0.150892 +- 0.148199
+===== Method 1: Expm =====
+CTHMM_decode_batch: 0 min, 0.791590 sec
+ave_conti_state_decode_err = 0.199022, ave_obstime_state_decode_err = 0.024000
+
+===== Syn Config Idx 23: =====
+max_qi = 3.986391, min_qi = 1.107280, small_hold_t = 0.250853, longest_hold_t = 0.903114
+Synthetic data setting 1: num_total_visit = 10000, sampling_time_interval(1) = 1.00341, obs_dur = 90.311413
+Fix total_visit_count = 10000, max_visit_per_seq = 90, min_visit_per_seq = 90, num_time_intv = 1
+all setting total_num_seq = 112
+all setting total_num_visit = 10000
+SSA: 0 min, 1.790798 sec
+Expm_dur: 0 min, 0.000311 sec
+SSA: 0 min, 1.537824 sec
+Expm_dur: 0 min, 0.000432 sec
+SSA: 0 min, 1.555915 sec
+Expm_dur: 0 min, 0.000450 sec
+SSA: 0 min, 1.502809 sec
+Expm_dur: 0 min, 0.000428 sec
+SSA: 0 min, 1.655516 sec
+Expm_dur: 0 min, 0.000570 sec
+SSA: 0 min, 1.192387 sec
+Expm_dur: 0 min, 0.000436 sec
+SSA: 0 min, 1.239625 sec
+Expm_dur: 0 min, 0.000337 sec
+SSA: 0 min, 1.345590 sec
+Expm_dur: 0 min, 0.000430 sec
+SSA: 0 min, 1.259634 sec
+Expm_dur: 0 min, 0.000453 sec
+SSA: 0 min, 1.332415 sec
+Expm_dur: 0 min, 0.000433 sec
+SSA: 0 min, 1.604151 sec
+Expm_dur: 0 min, 0.000467 sec
+SSA: 0 min, 1.759177 sec
+Expm_dur: 0 min, 0.000551 sec
+SSA: 0 min, 1.623939 sec
+Expm_dur: 0 min, 0.000358 sec
+SSA: 0 min, 1.728152 sec
+Expm_dur: 0 min, 0.000439 sec
+SSA: 0 min, 1.696463 sec
+Expm_dur: 0 min, 0.000511 sec
+SSA: 0 min, 1.692187 sec
+Expm_dur: 0 min, 0.000923 sec
+SSA: 0 min, 1.593555 sec
+Expm_dur: 0 min, 0.000859 sec
+SSA: 0 min, 1.671364 sec
+Expm_dur: 0 min, 0.000362 sec
+SSA: 0 min, 1.466002 sec
+Expm_dur: 0 min, 0.000404 sec
+SSA: 0 min, 1.551586 sec
+Expm_dur: 0 min, 0.000465 sec
+SSA: 0 min, 1.288104 sec
+Expm_dur: 0 min, 0.000482 sec
+SSA: 0 min, 1.348638 sec
+Expm_dur: 0 min, 0.000485 sec
+SSA: 0 min, 1.263942 sec
+Expm_dur: 0 min, 0.000666 sec
+SSA: 0 min, 1.421174 sec
+Expm_dur: 0 min, 0.001146 sec
+SSA: 0 min, 1.717255 sec
+Expm_dur: 0 min, 0.000359 sec
+AVE SSA run-time: 0 min, 1.513528 sec
+AVE Expm-dur run-time: 0 min, 0.000510 sec
+AVE best SSA prob: 0.090576 +- 0.062332
+===== Method 1: Expm =====
+CTHMM_decode_batch: 0 min, 0.946863 sec
+ave_conti_state_decode_err = 0.337358, ave_obstime_state_decode_err = 0.036000
+
+===== Syn Config Idx 20: =====
+===== Method 1: Expm =====
+conti_state_decode_err = 0.065640 +- 0.000000
+obstime_state_decode_err = 0.011300 +- 0.000000
+===== Syn Config Idx 21: =====
+===== Method 1: Expm =====
+conti_state_decode_err = 0.159487 +- 0.000000
+obstime_state_decode_err = 0.024300 +- 0.000000
+===== Syn Config Idx 22: =====
+===== Method 1: Expm =====
+conti_state_decode_err = 0.199022 +- 0.000000
+obstime_state_decode_err = 0.024000 +- 0.000000
+===== Syn Config Idx 23: =====
+===== Method 1: Expm =====
+conti_state_decode_err = 0.337358 +- 0.000000
+obstime_state_decode_err = 0.036000 +- 0.000000
